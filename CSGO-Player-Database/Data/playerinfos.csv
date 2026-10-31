@@ -1,0 +1,812 @@
+player_id,nickname,real_name,age,country,team_id
+11893,ZywOo,Mathieu Herbaut,21,France,1
+7998,s1mple,Aleksandr Kostyliev,24,Ukraine,3
+16920,sh1ro,Dmitry Sokolov,21,Russia,104
+20113,deko,Denis Zhukov,21,Russia,6
+18835,saffee,Rafael Costa,27,Brazil,7
+8950,Kaze,Andrew Khong,28,Malaysia,433
+17306,degster,Abdul Gasanov,21,Russia,67
+11271,smooya,Owen Butterfield,22,United Kingdom,2586
+12591,sterling,Euan Moore,24,New Zealand,434
+7938,XANTARES,Ismailcan Dörtkardeş,26,Turkey,20
+18227,SENSEi,Dmitriy Shvorak,23,Ukraine,435
+18072,torzsi,Ádám Torzsás,20,Hungary,26
+7592,device,Nicolai Reedtz,26,Denmark,118
+16207,DANK1NG,Zhenghao Lv,22,China,32
+3741,NiKo,Nikola Kovač,25,Bosnia and Herzegovina,34
+15165,blameF,Benjamin Bremer,25,Denmark,30
+7131,BnTeT,Hansel Ferdinand,26,Indonesia,32
+9216,coldzera,Marcelo David,27,Brazil,74
+9102,Sico,Simon Williams,27,New Zealand,43
+9172,XigN,Hyun-Pyo Lee,25,Korea,47
+15631,KSCERATO,Kaike Cerato,22,Brazil,7
+8944,Benkai,Benedict Tan,25,Singapore,2586
+11847,Texta,Matthew O'Rourke,21,Australia,2586
+13776,Jame,Dzhami Ali,23,Russia,436
+9626,XELLOW,Adrian Guță,21,Romania,256
+16847,mhL,Miłosz Knasiak,20,Poland,28
+798,oskar,Tomáš Šťastný,31,Czech Republic,437
+13281,El1an,Aleksei Gusev,23,Russia,62
+7167,kennyS,Kenny Schrub,27,France,34
+10774,Freeman,WingHei Cheung,23,Hong Kong,438
+10981,mantuu,Mateusz Wilczewski,24,Poland,2586
+3972,huNter-,Nemanja Kovač,26,Bosnia and Herzegovina,34
+9960,frozen,David Čerňanský,20,Slovakia,26
+16816,vsm,Vinicius Moreira,23,Brazil,74
+12877,chelleos,Michael Hawkins,22,New Zealand,2586
+11141,erkaSt,Erdenetsogt Gantulga,27,Mongolia,47
+12553,yuurih,Yuri Santos,22,Brazil,7
+8574,woxic,Özgür Eker,23,Turkey,20
+1088,liTTle,Anatoliy Yashin,33,Russia,61
+11140,INS,Joshua Potter,23,Australia,43
+5736,kNgV-,Vito Giuseppe,29,Brazil,2586
+11816,ropz,Robin Kool,22,Estonia,35
+14087,Jamppi,Elias Olkkonen,21,Finland,2586
+9884,wrath,Collin McSweegan,20,United States,2586
+8412,dream3r,Simeon Ganev,25,Bulgaria,92
+13238,PTC,Kitikawin Rattanasukol,23,Thailand,2586
+12733,xsepower,Bogdan Chernikov,24,Russia,97
+15662,zorte,Aleksandr Zagodyrenko,24,Russia,81
+10394,Twistzz,Russel Van Dulken,22,Canada,35
+8943,splashske,Nevin Aw,23,Singapore,2586
+14736,dgt,Franco Garcia,21,Uruguay,101
+2757,GuardiaN,Ladislav Kovács,31,Slovakia,439
+13249,oSee,Josh Ohm,23,United States,99
+11283,ottoNd,Otto Sihvo,24,Finland,105
+9277,FREDDyFROG,Fredrik Gustafsson,29,Sweden,2586
+15821,NEOFRAG,Adam Zouhar,21,Czech Republic,67
+9136,Brehze,Vincent Cayonte,24,United States,112
+13254,TenZ,Tyson Ngo,21,Canada,2586
+14619,Infinite,Gage Green,24,United States,440
+11219,CeRq,Tsvetelin Dimitrov,22,Bulgaria,112
+29,f0rest,Patrik Lindberg,34,Sweden,2586
+10664,Olivia,Peeratch Ingkudanonda,24,Thailand,441
+13670,nawwk,Tim Jonasson,24,Sweden,109
+12126,poizon,Valentin Vasilev,23,Bulgaria,179
+15698,dumau,Eduardo Wolkmer,18,Brazil,74
+9895,mertz,Daniel Mertz,23,Denmark,2586
+20097,h4rn,Deyvid Benchev,22,Bulgaria,393
+11264,WARDELL,Matthew Yu,24,Canada,2586
+8789,mir,Nikolay Bityukov,26,Russia,62
+5021,swag,Braxton Pierce,25,United States,2586
+8565,HEN1,Henrique Teles,27,Brazil,2586
+14505,ekul,Luke Blakey,27,Australia,2586
+16555,Ax1Le,Sergey Rykhtorov,20,Russia,104
+18743,nython,Gabriel Lino,24,Brazil,8
+11139,aliStair,Alistair Johnston,24,Australia,43
+12271,moose,Kaleb Jayne,24,Canada,2586
+10263,xccurate,Kevin Susanto,24,Indonesia,47
+8370,mixwell,Oscar Cañellas,26,Spain,2586
+695,allu,Aleksi Jalli,30,Finland,442
+8918,electroNic,Denis Sharipov,23,Russia,3
+18221,Spinx,Lotan Giladi,21,Israel,88
+7266,syrsoN,Florian Rische,26,Germany,14
+15090,PwnAlone,Josh Pigue,31,United States,443
+39,GeT_RiGhT,Christopher Alesund,32,Sweden,2586
+8783,JUGi,Jakob Hansen,25,Denmark,2586
+10722,gas,Yi Ding,26,China,155
+18141,biguzera,Rodrigo Bittencourt,25,Brazil,8
+13980,lollipop21k,Igor Solodkov,26,Belarus,6
+15007,Cooper,Austin Abadir,28,United States,305
+8575,Calyx,Buğra Arkın,24,Turkey,2586
+8711,Sonic,Aran Groesbeek,23,South Africa,2586
+1378,zehN,Jesse Linjala,30,Finland,105
+9042,ryx,Ronnie Bylicki,29,United States,2586
+12715,BL1TZ,Peter Athanasatos,29,Australia,2586
+8520,NAF,Keith Markovic,24,Canada,99
+8576,ZOREE,Lasse Uronen,28,Finland,442
+7390,ScreaM,Adil Benrlitom,28,Belgium,2586
+16848,hades,Olek Miskiewicz,22,Poland,88
+13466,dennyslaw,Denislav Dimitrov,22,Bulgaria,92
+8738,EliGE,Jonathan Jablonowski,25,United States,99
+12713,floppy,Ricky Kemery,22,United States,36
+7256,nex,Johannes Maget,30,Germany,2586
+16546,cynic,David Polster,22,United States,174
+9031,valde,Valdemar Bjørn Vangså,27,Denmark,67
+14294,hazr,Jared O'Bree,20,Australia,434
+13679,nukkye,Žygimantas Chmieliauskas,24,Lithuania,2586
+14932,faveN,Josef Baumann,22,Germany,14
+18462,mezii,William Merriman,23,United Kingdom,179
+8564,fer,Fernando Alvarenga,30,Brazil,176
+13300,Farlig,Asger Jensen,23,Denmark,30
+17861,JOTA,Jhonatan Willian,24,Brazil,42
+9078,k0nfig,Kristian Wienecke,25,Denmark,30
+7398,dupreeh,Peter Rasmussen,29,Denmark,1
+180,Savage,Bin Liu,33,China,444
+8552,Attacker,YuanZhang Sheng,25,China,32
+9115,dexter,Christopher Nong,27,Australia,26
+3543,DJOXiC,Đorđe Niciforović,29,Serbia,445
+7993,Detrony,Dimitri Hadjipaschali,31,South Africa,2586
+9247,Machinegun,Enkhtaivan Lkhagva,32,Mongolia,2586
+9032,Magisk,Emil Reif,24,Denmark,1
+9255,draken,William Sundin,26,Sweden,426
+5799,keev,Kevin Bartholomäus,30,Germany,2586
+9219,felps,João Vasconcellos,25,Brazil,2586
+11916,sergej,Jere Salo,20,Finland,191
+18736,pz,Jordan White,22,Australia,192
+7810,ShahZaM,Shahzeb Khan,28,United States,2586
+11154,exit,Raphael Lacerda,25,Brazil,42
+7028,Summer,YuLun Cai,25,China,32
+11162,Hatz,Jordan Bajic,24,Australia,43
+8555,jayzaR,Aleksandar Zarkovic,25,Sweden,2586
+7356,MICHU,Michał Müller,25,Poland,2586
+8848,Ryxxo,Thomas Nielsen,25,Denmark,446
+12732,FL1T,Evgenii Lebedev,21,Russia,436
+9656,hAdji,Ali Haïnouss,26,France,447
+8745,Rickeh,Ricardo Mulholland,30,Australia,448
+13602,nicoodoz,Nico Tamjidi,21,Denmark,179
+8707,ptr,Peter Gurney,32,United States,2586
+11586,dapr,Michael Gulino,23,United States,2586
+9294,NaToSaphiX,Niels Christian Sillassen,25,Denmark,2586
+14737,meyern,Ignacio Meyer,19,Argentina,341
+14494,junior,Paytyn Johnson,21,United States,36
+14273,iDISBALANCE,Artem Egorov,25,Russia,159
+8735,autimatic,Timothy Ta,25,United States,112
+13915,YEKINDAR,Mareks Gaļinskis,22,Latvia,57
+12379,Impulse,Aleksa Stankić,26,Serbia,449
+4679,jks,Justin Savage,26,Australia,36
+10588,Liazz,Jay Tregillgas,24,Australia,43
+8526,smike,Sergey Sklyarenko,24,Ukraine,211
+1225,shox,Richard Papillon,30,France,99
+11815,anarkez,Guy Trachtman,22,Israel,215
+12840,hallzerk,Håkon Fjærli,22,Norway,36
+18053,broky,Helvijs Saukants,21,Latvia,35
+9218,xand,Alexandre Zizi,27,Brazil,2586
+9353,paz,Ahmet Karahoca,25,Turkey,20
+15370,slaxz-,Fritz Dietrich,23,Germany,151
+7996,CRUC1AL,Joey Steusel,25,Netherlands,180
+7910,fejtZ,Kristjan Allsaar,24,Estonia,346
+10587,InfrequeNt,Jesse Barker,27,Australia,2586
+12030,EspiranTo,Rokas Milasauskas,21,Lithuania,2586
+7403,WorldEdit,Georgi Yaskin,30,Russia,2586
+11355,QKA,ZhiHai Fu,28,China,450
+11163,trk,Alencar Rossato,27,Brazil,221
+8605,somebody,HaoWen Xu,27,China,2586
+8349,shroud,Mike Grzesiek,28,Canada,2586
+7154,Pimp,Jacob Winneche,26,Denmark,2586
+8568,boltz,Ricardo Prass,25,Brazil,176
+8528,HObbit,Abay Khasenov,28,Kazakhstan,104
+13666,Brollan,Ludvig Brolin,20,Sweden,118
+7026,DD,Hui Wu,27,China,2586
+14419,roeJ,Fredrik Jørgensen,28,Denmark,179
+16080,dycha,Paweł Dycha,24,Poland,88
+10504,NikoM,Nicolas Miozzi,25,Argentina,451
+2023,FalleN,Gabriel Toledo,31,Brazil,176
+9574,snatchie,Michał Rudzki,24,Poland,2586
+11739,shz,Bruno Martinelli,24,Brazil,452
+10566,chelo,Marcelo Cespedes,24,Brazil,42
+16817,hardzao,Wesley Lopes,21,Brazil,8
+20101,fame,Petr Bolyshev,19,Russia,436
+8767,ofnu,Chris Hanley,29,New Zealand,2586
+9317,AnJ,Allan Jensen,27,Denmark,2586
+10671,Ethan,Ethan Arnold,22,United States,2586
+16693,flameZ,Shahar Shushan,19,Israel,67
+18987,b1t,Valeriy Vakhovskiy,19,Ukraine,3
+8601,zhokiNg,WeiJie Zhong,28,China,438
+11343,SHiPZ,Georgi Grigorov,21,Bulgaria,92
+7429,Happy,Vincent Schopenhauer,30,France,2586
+10330,acoR,Frederik Gyldstrand,25,Denmark,26
+9676,NikkeZ,Nikhil Victor,27,Australia,448
+9083,COLDYY1,Pavel Veklenko,30,Ukraine,2586
+17585,b4rtiN,Bruno Câmara,20,Brazil,221
+12708,rigoN,Rigon Gashi,22,Switzerland,231
+7440,Skadoodle,Tyler Latham,29,United States,2586
+16872,flying,Peiqi Song,21,China,233
+16314,pancc,Fillipe Martins,24,Brazil,2586
+13138,Maka,Bryan Canda,25,France,447
+9056,koosta,Kenneth Suen,26,United States,2586
+16323,Valiance,Matthew Hartrick,21,Australia,192
+9108,tucks,Tyler Reilly,25,Australia,2586
+9288,TOR,Tosapol Saekow,29,Thailand,2586
+885,olofmeister,Olof Kajbjer,30,Sweden,35
+5479,suNny,Miikka Kemppi,27,Finland,437
+11617,malbsMd,Mario Samayoa,19,Guatemala,74
+9686,Gratisfaction,Sean Kaiwai,26,New Zealand,39
+17011,shalfey,Alexandr Marenov,20,Russia,81
+15683,SLOWLY,Kelun Sun,20,China,32
+9618,nexa,Nemanja Isaković,25,Serbia,67
+5388,rallen,Karol Rodowicz,28,Poland,2586
+17145,Rainwaker,Aleks Petrov,21,Bulgaria,92
+10168,bottle,Lei Mao,28,China,2586
+2544,remix,Victor Monteiro,28,Brazil,453
+10449,ISSAA,Issa Murad,25,Jordan,2586
+3849,JW,Jesper Wecksell,27,Sweden,454
+15940,Sobol,Kamil Sobolewski,24,Poland,277
+19926,afro,Aurélien Drapier,23,France,246
+14759,iM,Ivan Mihai,23,Romania,123
+11842,Ramz1kBO$$,Ramazan Bashizov,22,Kazakhstan,455
+7016,HZ,Zhen Huang,32,China,456
+14602,Marcelious,Ole Kristian Langan,23,Norway,457
+2469,cajunb,René Borg,32,Denmark,458
+5794,tabseN,Johannes Wodarz,27,Germany,14
+13054,zeph,Charlie Dodd,20,Australia,459
+964,mou,Rustem Telepov,30,Kazakhstan,2586
+10994,stavn,Martin Lund,20,Denmark,37
+15369,REDSTAR,Hristiyan Pironkov,20,Bulgaria,460
+7528,KRIMZ,Freddy Johansson,28,Sweden,179
+17504,KEi,Kamil Pietkun,21,Poland,461
+12018,TeSeS,René Madsen,21,Denmark,37
+8513,yay,Jaccob Whiteaker,23,United States,2586
+11954,FASHR,Dion Derksen,26,Netherlands,256
+17147,juanflatroo,Flatron Halimi,25,Kosovo,231
+12731,sdy,Viktor Orudzhev,25,Ukraine,3
+9258,SicK,Hunter Mims,23,United States,2586
+8543,NEEX,Sebastian Trela,25,Poland,2586
+4076,Aerial,Jani Jussila,29,Finland,105
+3997,loWel,Christian Garcia Antoran,25,Spain,2586
+15072,nin9,Yesuntumur Gantulga,24,Mongolia,262
+11748,raafa,Rafael Lima,28,Brazil,2586
+13578,Grim,Michael Wince,21,United States,36
+13188,Zellsis,Jordan Montemurro,24,United States,2586
+13239,Qikert,Alexey Golubev,23,Kazakhstan,436
+11250,Flarich,Vadim Karetin,25,Latvia,462
+10589,rommi,Roman Golubev,29,Russia,463
+12937,WolfY,Adam Andersson,23,United States,256
+10892,MarKE,Edgar Maldonado,24,Mexico,2586
+7964,cadiaN,Casper Møller,27,Denmark,37
+13843,Lucky,Philip Ewald,19,Denmark,154
+10610,refrezh,Ismail Ali,24,Denmark,37
+8124,DavCost,Vadim Vasilyev,26,Russia,268
+11485,malta,Liam Schembri,26,Australia,192
+8394,Kjaerbye,Markus Kjærbye,24,Denmark,180
+16647,Bwills,Brendan Williams,21,United States,174
+8248,jkaem,Joakim Myrbostad,28,Norway,109
+3055,flusha,Robin Rönnquist,28,Sweden,454
+13229,Snakes,Ryan Amann,20,United States,440
+8764,zewsy,Ryan Palmer,25,New Zealand,2586
+15255,Swahn,Christopher Swahn,24,United States,2586
+12699,STOMP,Daniel Płomiński,27,Poland,2586
+8604,aumaN,ZhiHong Liu,28,China,2586
+16612,n0rb3r7,David Danielyan,21,Russia,436
+13230,motm,Ian Hardy,22,United States,115
+2644,Hiko,Spencer Martin,32,United States,2586
+12564,Geniuss,Kritthee Sawatmuang,24,Thailand,2586
+2553,Snax,Janusz Pogorzelski,29,Poland,2586
+9174,HSK,Hae-Sung Kim,27,Korea,2586
+9612,Bubzkji,Lucas Andersen,24,Denmark,2586
+9043,ANDROID,Bradley Fodor,28,Canada,2586
+10842,KHTEX,Dener Barchfield,25,Brazil,452
+10870,kabal,Bat-Enkh Batbayar,27,Mongolia,262
+8957,LOVEYY,KunHua Bai,33,China,2586
+11942,buster,Timur Tulepov,22,Kazakhstan,57
+12317,fleav,Fodor Levente,21,Hungary,27
+16726,phzy,Love Smidebrant,19,Sweden,2586
+7443,twist,Simon Eliasson,27,Sweden,215
+16487,eraa,Sean Knutsson,20,Sweden,283
+18717,Lucaozy,Lucas Neves,20,Brazil,196
+8138,Davidp,David Prins,27,Belgium,2586
+839,tb,BingYuan Li,31,China,450
+4576,dEE,Miloš Marčeta,26,Serbia,464
+10557,land1n,Paulo Felipe,28,Brazil,452
+8523,tarik,Tarik Celik,26,United States,2586
+9278,REZ,Fredrik Sterner,24,Sweden,118
+10705,Kntz,Krit Chaiprasit,24,Thailand,47
+14171,rAge,Dmitry Bolotov,25,Ukraine,2586
+8998,JUST,Tiago Moura,26,Portugal,293
+14148,sjuush,Rasmus Beck,23,Denmark,37
+12092,max,Maximiliano Gonzalez,23,Uruguay,101
+10761,NK4Y,Nikola Radushev,26,Bulgaria,2586
+11231,Subroza,Yassine Taoufik,25,Canada,2586
+8771,USTILO,Karlo Pivac,28,Australia,2586
+16948,TRAVIS,Aleksandr Timkiv,24,Russia,6
+13497,Lucky,Lucas Chastang,24,France,246
+9521,dobu,Gan-Erdene Batbold,23,Mongolia,47
+8371,alex,Alejandro Masanet,26,Spain,15
+2555,yam,Yaman Ergenekon,33,Australia,2586
+19673,Patsi,Robert Isyanov,18,Russia,13
+9279,Relaxa,Joakim Gustafsson,29,Sweden,2586
+3847,znajder,Andreas Lindberg,29,Sweden,2586
+9358,DEV7L,Patrik Stuchlík,25,Czech Republic,2586
+9349,AiyvaN,Ivan Semenets,26,Ukraine,465
+11777,Maden,Pavle Bošković,23,Montenegro,88
+5187,captainMo,Ke Liu,33,China,466
+13018,Thomas,Thomas Utting,24,United Kingdom,2586
+11337,RCF,Rodrigo Figueiredo,22,Brazil,288
+10499,JonY BoY,Jonathan Muñoz,30,Argentina,341
+8183,rain,Håvard Nygaard,27,Norway,35
+12782,kressy,Marko Đorđević,26,Germany,2586
+17353,cxzi,Danny Strzelczyk,22,United States,467
+7775,juho,Juho Lampinen,27,Finland,27
+3732,F1KU,Maciej Miklas,19,Poland,67
+19044,DiMKE,Dimitrije Veljković,28,Serbia,449
+8800,stfN,Stefan Seier,29,Germany,468
+19021,chawzyyy,Hugo Günther,17,Sweden,109
+15835,imoRR,Ömer Karataş,22,Turkey,20
+11576,shuadapai,Wei Wang,31,China,469
+8095,aizy,Philip Aistrup,26,Denmark,437
+15565,Spargo,Jarkko Rahja,21,Finland,105
+11737,RIKO,Dylan Sabin-Arnce,26,United States,2586
+1146,dennis,Dennis Edman,31,Sweden,2586
+9875,food,Victor Wong,25,United States,2586
+8503,fl0m,Erik Flom,29,United States,305
+13982,Forester,Igor Bezotecheskiy,22,Russia,62
+15501,b0denmaster,Jonathan Bodenmalm,24,Sweden,115
+317,pashaBiceps,Jarosław Jarząbkowski,34,Poland,2586
+19236,KENSI,Aleksandr Gurkin,20,Russia,81
+13396,hoody,Aaro Peltokangas,23,Finland,2586
+8255,CyberFocus,Roman Dergach,27,Belarus,2586
+14445,kai,Kaique Guidotti,27,Brazil,2586
+17508,glowiing,Aleksandr Matsievich,28,Russia,6
+16599,Swisher,Michael Schmid,23,United States,115
+7594,flamie,Egor Vasilyev,25,Russia,6
+9271,sLowi,Olli Pitkänen,26,Finland,105
+17793,smiley,Algat Abdul,25,Kazakhstan,98
+10264,niko,Nikolaj Kristensen,24,Denmark,67
+9616,AMANEK,François Delaunay,28,France,200
+10992,dragonfly,Jacob Lund,25,Denmark,470
+8994,HS,Kevin Tarn,25,Estonia,468
+8346,jdm64,Josh Marzano,32,United States,2586
+557,fnx,Lincoln Lau,32,Brazil,176
+7168,NBK-,Nathan Schmitt,28,France,26
+10698,kolor,Ádám Domoszlay,22,Hungary,468
+9961,MonttY,Martin Melišek,23,Slovakia,2586
+9008,FANAT ROCKA,Vasiliy Trusov,30,Russia,471
+9483,DeStiNy,Lucas Bullo,25,Brazil,2586
+17372,FaNg,Justin Coakley,20,Canada,36
+2529,Maluk3,Pedro Campos,32,Brazil,221
+9256,disco doplan,Joakim Gidetun,26,Sweden,2586
+7413,Nico,Nicolaj Jensen,30,Denmark,2586
+8323,mouz,Mikołaj Karolewski,26,Poland,2586
+2131,bondik,Vladyslav Nechyporchuk,29,Ukraine,472
+9289,qqGOD,Phoomphat Phodjanat,24,Thailand,441
+7834,v1c7oR,Viktor Dyankov,28,Bulgaria,473
+18838,HexT,Jadan Postma,20,Canada,474
+8770,MoeycQ,Mohammed Tizani,29,Australia,2586
+13228,Voltage,Logan Long,22,United States,440
+13589,Spongey,Gabe Greiner,22,United States,114
+12027,Krad,Vladislav Kravchenko,23,Russia,62
+8345,spaze,Ivan Obrezhan,25,Russia,475
+13273,Ace,Brandon Winn,27,United States,2586
+11276,Markoś,Kuba Markowski,23,Poland,461
+13780,dimasick,Dmitry Matvienko,26,Kazakhstan,2586
+15428,Goofy,Krzysiek Gorski,21,Poland,2586
+7749,queztone,Richard Strnátko,26,Slovakia,2586
+3410,ROBO,Vladimir Neskey,29,Belarus,2586
+7253,steel,Joshua Nissan,32,Canada,2586
+10560,yel,Gustavo Knittel,30,Brazil,2586
+4954,Xyp9x,Andreas Højsleth,26,Denmark,30
+5287,TENZKI,Jesper Plougmann,28,Denmark,349
+11258,fr0slev,Magnus Frøslev,25,Denmark,2586
+4216,LETN1,Nestor Tanić,29,Serbia,32
+7322,apEX,Dan Madesclaire,29,France,1
+629,fox,Ricardo Pacheco,35,Portugal,476
+2299,NENO,Anel Ceković,28,North Macedonia,477
+203,n0thing,Jordan Gilbert,31,United States,2586
+14218,Plopski,Nicolas Gonzalez Zamora,20,Sweden,118
+13464,mar,Martin Kuyumdjiev,25,Bulgaria,478
+2398,SKYTTEN,Alexander Carlsson,29,Sweden,2586
+8951,roseau,Baskoro Dwi Putra,29,Indonesia,2586
+17113,szejn,Hubert Światły,20,Poland,28
+7935,roca,Daniel Gustaferri,26,United States,2586
+13182,xCeeD,Jack Holiman,22,United States,2586
+10818,iDk,Victor Torraca,24,Brazil,221
+11844,flickz,Sam Jones,31,Australia,2586
+14394,Tuurtle,Matheus Anhaia,23,Brazil,42
+8891,Nodios,Magnus Olsen,23,Denmark,458
+2730,chrisJ,Chris de Jong,32,Netherlands,2586
+11230,aproto,Alex Protopapas,23,United States,2586
+11213,delboNi,Felipe Delboni,24,Brazil,479
+12269,Jyo,Rassim Valijev,27,Estonia,159
+17402,bedonka,Harry Hayes,22,Australia,2586
+8611,es3tag,Patrick Hansen,26,Denmark,118
+20090,Zyphon,Rasmus Nordfoss,18,Denmark,182
+16859,shokz,Kristjan Jakobson,24,Estonia,215
+8570,GruBy,Dominik Swiderski,27,Poland,415
+8350,desi,Derek Branchen,29,United States,2586
+9811,PlesseN,Niclas Plessen,24,Sweden,215
+12810,SHOCK,Max Kvapil,21,Czech Republic,60
+12086,HUGHMUNGUS,Hugh Anderson,22,Australia,448
+9896,b0RUP,Johannes Borup,22,Denmark,2586
+9766,hampus,Hampus Poser,23,Sweden,118
+10840,tatazin,Alef Pereira,28,Brazil,452
+1045,Maikelele,Mikail Bill,31,Sweden,2586
+9261,Lekr0,Jonas Olofsson,29,Sweden,2586
+10470,mitch,Mitch Semago,25,United States,2586
+12004,clax,Timur Sabirov,20,Russia,97
+4373,EasTor,Rajohn Linato,28,Spain,2586
+14684,jedqr,Grzegorz Jędras,23,Poland,2586
+14929,JDC,Jon de Castro,22,Germany,26
+12094,1962,Gabriel Sinopoli,26,Argentina,341
+19114,Kylar,Kacper Walukiewicz,22,Poland,461
+9680,Noobster,Andy Zhang,25,Australia,2586
+15419,Viva,Lifan Ran,22,China,2586
+5386,byali,Paweł Bieliński,28,Poland,415
+9416,obj,Francisco Ramos,26,Portugal,476
+3183,spyleadeR,Emiliyan Dimitrov,32,Bulgaria,132
+9911,kreaz,Rasmus Johansson,24,Sweden,215
+11205,stadodo,Renato Gonçalves,25,Portugal,480
+11701,mirbit,Sabit Coktasar,25,Germany,131
+17510,J0LZ,David Jolin,22,Canada,346
+7,Friis,Michael Jørgensen,33,Denmark,2586
+15096,grux,Denis Gutaj,22,Sweden,349
+11064,dazzLe,Will Loafman,26,United States,2586
+10186,ayaya,YangYang Zheng,23,China,398
+2007,ap0c,Mike Aliferis,34,Australia,434
+8242,reatz,Paweł Jańczak,27,Poland,2586
+16820,siuhy,Kamil Szkaradek,19,Poland,28
+8797,Stewie2K,Jake Yip,24,United States,2586
+9410,kalinka,Nikolaj Rysakov,28,Lithuania,2586
+11538,Jinxx,Chris Moseley,25,Australia,2586
+7982,to1nou,Antoine Pirard,27,Belgium,481
+12876,DickStacy,Ollie Tierney,25,Australia,2586
+8786,jR,Dmitriy Chervak,28,Ukraine,25
+7980,DESPE,Çağatay Sedef,29,Turkey,2586
+4959,kioShiMa,Fabien Fiey,28,France,2586
+13155,speed4k,Anton Titov,26,Russia,482
+8522,FugLy,Jacob Medina,27,United States,2586
+8744,emagine,Chris Rowlands,31,Australia,2586
+9069,Nifty,Noah Francis,24,United States,2586
+16946,Polt,Vadim Tsyrov,28,Russia,483
+12521,arT,Andrei Piovezan,26,Brazil,7
+2826,MINISE,Jacek Jeziak,28,Poland,2586
+8727,waterfaLLZ,Nikita Matveyev,27,Russia,2586
+16723,Cabbi,Casper Jensen,24,Denmark,355
+11307,pounh,Eimantas Lazickas,25,Lithuania,2586
+8413,Zero,Patrik Žúdel,23,Slovakia,60
+7383,zqkS,Caio Fonseca,30,Brazil,479
+3669,innocent,Paweł Mocek,28,Poland,255
+8517,Relyks,Skyler Weaver,27,United States,2586
+10590,fenvicious,Evgeny Mitsik,27,Russia,484
+1883,glace,Nicolai Jensen,28,Denmark,2586
+11238,Oderus,Chad Miller,23,United States,2586
+8724,1uke,Aleksey Zimin,29,Russia,2586
+11329,leo_drk,Leonardo Oliveira,22,Brazil,74
+483,Edward,Ioann Sukhariev,34,Ukraine,472
+9245,Tsogoo,Tsog Mashbat,28,Mongolia,188
+8347,hazed,James Cobb,33,United States,2586
+11574,xiaosaGe,Peng Song,32,China,466
+147,SIXER,Christophe Xia,31,France,386
+11515,kenzor,Leonard Volodarchuk,25,Ukraine,465
+14205,R0b3n,Roberts Čigauskis,20,Latvia,485
+13240,Lack1,Viktor Boldyrev,22,Kazakhstan,2586
+10764,cbbk,Thotsaphon Suphatthanaphalaphon,28,Thailand,2586
+10570,dzt,Denis Fischer,25,Brazil,2586
+9339,ImpressioN,Anthony Lim,26,Singapore,2586
+11654,almazer,Almaz Asadullin,23,Russia,313
+19738,Djoko,Thomas Pavoni,25,France,246
+5792,KILLDREAM,Joao Ferreira,29,Portugal,2586
+10443,Basso,Sebastian Aagaard,23,Denmark,2586
+10663,RoLEX,Warittorn Kalanukarn,21,Thailand,2586
+4637,zeff,Min-Seok Park,33,Korea,2586
+11922,ALLE,Alexandre Santos,25,Brazil,2586
+9254,mopoz,Alejandro Fernández-Quejo Cano,25,Spain,15
+16415,supra,Anton Tšernobai,20,Estonia,437
+10397,cromen,Jorgen Robertsen,27,Norway,2586
+973,SZPERO,Grzegorz Dziamałek,31,Poland,2586
+7433,adreN,Eric Hoag,32,United States,99
+7248,xseveN,Sami Laasanen,27,Finland,105
+14954,void,Cooper Farrell,21,Australia,2586
+7527,pyth,Jacob Mourujärvi,28,Sweden,2586
+545,MODDII,Andreas Fridh,33,Sweden,486
+13186,cam,Cameron Kern,24,United States,2586
+7369,peet,Piotr Ćwikliński,31,Poland,2586
+7687,nitr0,Nick Cannella,26,United States,99
+11926,mds,Aleksandr Rubets,23,Belarus,483
+10163,pecks,Peter Nguyen,25,Australia,2586
+6904,STYKO,Martin Styk,26,Slovakia,109
+9298,truth,Erik Hansen Dyrnes,25,Norway,2586
+2161,Noktse,Nicolás Dávila,29,Argentina,205
+9260,vice,Daniel Kim,26,United States,2586
+10463,Baaten,Linus Andersson,23,Sweden,2586
+9818,uli,Samu Leirilaakso,24,Finland,300
+630,MUTiRiS,Christopher Fernandes,29,Portugal,293
+9257,freddieb,Fredrik Buö,28,Sweden,2586
+1915,SEMPHIS,Kory Friesen,33,Canada,174
+7873,dephh,Rory Jackson,30,United Kingdom,2586
+16769,realz1n,Antonio Oliveira,27,Brazil,366
+7808,freakazoid,Ryan Abadir,29,United States,305
+13157,Jerry,Andrey Mekhryakov,24,Russia,81
+18317,magixx,Boris Vorobiev,19,Russia,13
+12083,YDNA,Andrew Adams,23,Australia,487
+7700,robiin,Robin Sjögren,27,Sweden,2586
+12710,gMd,Anthony Guimond,21,Canada,2586
+8184,ALEX,Alex McMeekin,26,United Kingdom,179
+338,markeloff,Yegor Markelov,34,Ukraine,2586
+7296,Puls3,Reece Marrs,28,United Kingdom,488
+15204,Vegi,Arek Nawojski,22,Poland,255
+12101,neptune,Jason Tran,19,United States,2586
+5373,xelos,Jerry Råberg,29,Sweden,372
+9103,rbz,Daniel Urbani,28,Australia,2586
+8396,BENDJI,Benjamin Söderena,26,Sweden,489
+19823,dukefissura,Suleımen Orazaly,26,Kazakhstan,98
+9221,reversive,Roberto Themtham,30,Argentina,341
+4726,jaxi,Costin Vrînceanu,28,Romania,2586
+44,BARBARR,André Möller,32,Sweden,2586
+12822,VINI,Vinicius Figueiredo,23,Brazil,176
+19190,Liki,Benson Niuila,23,Australia,2586
+8324,morelz,Piotr Taterka,28,Poland,276
+12781,k1to,Nils Gruhne,23,Germany,490
+9903,notaN,Anton Pedersen,22,Denmark,355
+17553,pesadelo,Matheus Panisset,22,Brazil,221
+16495,kory,Kornél Szedlár,24,Hungary,217
+19232,JIaYm,Nikita Panyushkin,23,Russia,2586
+339,ANGE1,Kirill Karasiow,32,Ukraine,2586
+10372,kaboose,Jake McDonald,22,United States,2586
+8726,facecrack,Dmitriy Alekseyev,28,Russia,491
+8125,Dimaoneshot,Dmitriy Bandurka,27,Russia,2586
+9130,Drone,Taylor Johnson,24,United States,2586
+19733,DemQQ,Sergiy Demchenko,21,Ukraine,377
+2241,rmn,Ricardo Oliveira,30,Portugal,293
+735,Dosia,Mihail Stolyarov,34,Russia,2586
+12089,vanity,Anthony Malaspina,23,United States,2586
+9291,krii,Kristaps Bricis,24,Latvia,378
+10052,fitch,Bektiyar Bahytov,30,Kazakhstan,455
+13093,DeathZz,Raúl Jordán Nieto,26,Spain,15
+8875,gade,Nicklas Gade,27,Denmark,14
+12102,djay,Jonathan Dallal,29,Canada,443
+7529,SAGGERTON,Saku Jokinen,26,Finland,2586
+7965,larsen,Sebastian Larsen,25,Denmark,154
+2799,bubble,Kamen Kostadinov,30,Bulgaria,92
+8871,Lukki,Lucas Pilheden,22,Denmark,2586
+17956,jabbi,Jakob Nygaard,19,Denmark,37
+8082,AZR,Aaron Ward,29,Australia,2586
+12593,J1rah,Jireh Youakim,22,Australia,2586
+13989,ryotzz,Leon Felipe,28,Brazil,2586
+8374,bodyy,Alexandre Pianaro,25,France,246
+9482,NEKIZ,Gabriel Schenato,26,Brazil,8
+10436,sXe,Cristian Niță,24,Romania,464
+19705,chop,Connor Sullivan,20,United States,474
+284,JACKZ,Audric Jug,30,France,34
+8508,DAVEY,David Stafford,26,Canada,2586
+8327,Furlan,Damian Kislowski,27,Poland,59
+13177,stellar,Brenden McGrath,26,United States,2586
+884,Xizt,Richard Landström,31,Sweden,37
+12113,Jonji,Jonathan Carey,22,Canada,443
+1485,RUBINO,Ruben Villarroel,28,Norway,2586
+334,AdreN,Dauren Kystaubayev,32,Kazakhstan,2586
+12088,ryann,Ryan Welsh,21,United States,2586
+7412,gla1ve,Lukas Rossander,27,Denmark,30
+13992,Zix,Krasen Minchev,23,Bulgaria,2586
+16947,Perfecto,Ilya Zalutskiy,22,Russia,3
+17937,isak,Isak Fahlén,20,Sweden,123
+8716,DeadFox,Bence Böröcz,27,Hungary,2586
+17930,wiz,Jerric Jiang,21,United States,474
+5045,zende,Erik Sundeqvist,27,Sweden,2586
+11996,Daffu,Jakob Schildt,24,Denmark,256
+7499,Spiidi,Timo Richter,26,Germany,151
+17936,bq,Adam Bergqvist,20,Sweden,492
+12872,apocdud,Tom Henry,23,Australia,2586
+7438,anger,Todd Williams,34,United States,2586
+11498,NickelBack,Aleksei Trofimov,25,Russia,62
+14390,WOOD7,Adriano Cerato,27,Brazil,2586
+9819,doto,Joonas Forss,26,Finland,105
+9480,tifa,Thiago França,26,Brazil,2586
+10611,Fadey,Rhys Armstrong,24,South Africa,115
+19882,Norwi,Evgeny Ermolin,21,Russia,81
+16529,Llamas,Luke Merchant,22,Australia,493
+13170,kwezz,Oliver Rasmussen,22,Denmark,154
+9220,SHOOWTiME,Gustavo Gonçalves,25,Brazil,479
+8000,syken,Thilo Phan,26,Germany,2586
+8488,ZEDKO,Jindřich Chyba,24,Czech Republic,60
+11747,jnt,Jhonatan Silva,28,Brazil,196
+10827,prt,Matheus Scuvero,24,Brazil,221
+17305,FinigaN,Vladislav Usov,23,Russia,2586
+8917,niki1,Nikolay Pantaleev,31,Bulgaria,494
+9636,BURNRUOk,Callum Henderson,26,Australia,2586
+13148,Radifaction,Haakon Tholo,23,Norway,457
+555,BIT,Bruno Fukuda Lima,32,Brazil,42
+11840,Boombl4,Kirill Mikhailov,23,Russia,3
+12244,Sergiz,Sergey Atamanchuk,21,Ukraine,495
+5061,PERCY,Martin Wessel,28,Denmark,2586
+10697,blocker,Yanko Panov,25,Bulgaria,494
+8539,leman,Eryk Kocęba,25,Poland,59
+15569,Sapec,Anton Palmgren,19,Sweden,454
+7805,RUSH,William Wierzba,28,United States,112
+7169,RpK,Cédric Guipouy,32,France,2586
+18120,sinnopsyy,Dionis Budeci,27,Kosovo,231
+11217,SPELLAN,Teodor Nikolov,24,Bulgaria,473
+19015,Bymas,Aurimas Pipiras,18,Lithuania,26
+9916,mono,Michał Gabszewicz,26,Poland,2586
+13749,Queenix,Jonas Dideriksen,23,Denmark,355
+10784,RuStY,Alfred Karlsson,24,Sweden,426
+2898,raalz,Rasmus Steensborg,27,Denmark,151
+8368,jmqa,Savelii Bragin,25,Russia,2586
+10192,DeStRoYeR,JiaMing Gu,28,China,233
+15117,Keoz,Nicolas Dgus,21,Belgium,447
+3886,seb,Sebastian Bucki,31,United States,2586
+14055,propleh,Dmitriy Senigov,25,Russia,313
+302,kUcheR,Emil Akhundov,33,Russia,2586
+12129,stk,Anupong Mueangngam,25,Thailand,441
+8446,ELUSIVE,Ruan van Wyk,29,South Africa,2586
+8321,oskarish,Oskar Stenborowski,25,Poland,255
+7388,SOKER,Aitor Fernández,29,Spain,496
+17792,ice,Aman Seitkaliyev,21,Kazakhstan,56
+6593,PKL,Vinicios Coelho,28,Brazil,8
+8569,DEVIL,Timothée Démolon,27,France,497
+3347,seized,Denis Kostin,27,Russia,498
+10666,MAIROLLS,Maitri Sukrob,24,Thailand,441
+7925,gabesson,Gábor Málovics,32,Hungary,2586
+14957,Mayker,Daryl May,23,Australia,2586
+971,KHRN,Jesse Grandell,32,Finland,2586
+11248,Leaf,Sattawut Reathong,28,Thailand,2586
+11891,phr,Tomasz Wójcik,25,Poland,276
+8137,reltuC,Stephen Cutler,33,United States,2586
+7716,chopper,Leonid Vishnyakov,25,Russia,13
+11161,Drea3er,ZhiTao Zhang,27,China,499
+7368,Hyper,Bartosz Wolny,32,Poland,2586
+9019,Surreal,Kia Man,26,United Kingdom,180
+11995,TMB,Thomas Bundsbæk,20,Denmark,460
+8566,LUCAS1,Lucas Teles,27,Brazil,2586
+14388,The eLiVe,Erik Sith,23,Slovakia,393
+823,Maniac,Mathieu Quiquerez,32,Switzerland,2586
+303,starix,Sergey Ischuk,34,Ukraine,2586
+17918,nosraC,Carson O'Reilly,22,United States,174
+7170,SmithZz,Edouard Dubourdeaux,33,France,2586
+14221,kaper,Kacper Słoma,26,Poland,500
+16921,nafany,Vladislav Gorshkov,21,Russia,104
+8598,Marek,Tzu-Chi Huang,28,Taiwan,438
+15563,SADDYX,Tuomas Louhimaa,21,Finland,442
+8150,maeVe,Lasse Elgaard,32,Denmark,2586
+329,Kairi,David de Miguel,34,Spain,2586
+11460,Tommy,Kumaresan Ramani,28,Singapore,2586
+8733,bodito,Patrik Boda,24,Hungary,207
+17929,Walco,Colby Walsh,20,Canada,474
+8507,stanislaw,Peter Jarguz,28,Canada,2586
+8453,SEMINTE,Valentin Bodea,25,Romania,58
+12490,expro,Heng Yang,23,China,403
+3730,HOLMES,Petar Dimitrijević,30,Serbia,187
+9545,xms,Alexandre Forté,25,France,2586
+14359,w1nt3r,Alikhan Kopzhanov,24,Kazakhstan,56
+9053,Uber,Michael Stapells,25,Canada,2586
+9816,Aleksib,Aleksi Virolainen,25,Finland,34
+205,glow,Min-Soo Kim,34,Korea,2586
+8459,Kvik,Aurimas Kvakšys,26,Lithuania,2586
+16870,ProbLeM,Dmitriy Martinov,23,Russia,2586
+10961,Kristou,Kristoffer Aamand,20,Denmark,2586
+150,MAJ3R,Engin Küpeli,31,Turkey,20
+11039,JazzPimp,Dominick Dimpfel,25,United States,174
+13042,LOGAN,Logan Corti,24,France,2586
+5796,tiziaN,Tizian Feldbusch,26,Germany,14
+11358,0i,ZhiWei Liu,26,China,233
+10508,nbl,Nabil Aleua,25,Argentina,501
+7414,smF,Danni Dyg,30,Denmark,502
+11746,YJ,Lucas Yuji,26,Brazil,2586
+3459,kinqie,Semyon Lisitsyn,30,Russia,482
+922,Snappi,Marco Pfeiffer,32,Denmark,88
+2148,tahsiN,Tahsin Broschk,31,Germany,2586
+15349,maNkz,Marcus Kjeldsen,24,Denmark,256
+11286,ponczek,Patryk Wites,27,Poland,503
+19038,PR1mE,Mathias Carlsen,21,Denmark,154
+165,NEO,Filip Kubski,35,Poland,277
+14176,misutaaa,Kévin Rabier,19,France,1
+7511,denis,Denis Howell,27,Germany,2586
+13179,RZU,Jeff Ngo,22,United States,504
+11199,beastik,Sebastian Daňo,24,Czech Republic,60
+7508,alexRr,Alexander Frisch,26,Germany,2586
+15639,dezon,Adam Wahlqvist,24,Sweden,349
+7958,dumz,Miran Matković,26,Sweden,2586
+7148,friberg,Adam Friberg,30,Sweden,2586
+10563,caike,Caike Costa,27,Brazil,2586
+161,TaZ,Wiktor Wojtas,36,Poland,277
+7382,steel,Lucas Lopes,28,Brazil,288
+10404,Console,Mads Skovby,26,Denmark,2586
+10569,devoduvek,David Dobrosavljevic,27,France,386
+9660,CONNOR93,Connor Glover,28,Canada,2586
+12590,soju_j,Jay Jeong,24,New Zealand,2586
+12161,KrizzeN,Aidyn Turlybekov,22,Kazakhstan,2586
+7942,dERZKIY,Igor Radosavlevich,26,Belarus,505
+11287,darko,Kacper Ściera,24,Poland,503
+14161,RAiLWAY,Artem Gradovich,26,Russia,268
+16462,Grus,Sander Iversen,24,Norway,2586
+14311,H4RR3,Haris Hadzic,25,Norway,251
+18697,oxygeN,Blagoi Dimitrov,19,Bulgaria,506
+8151,AcilioN,Asger Larsen,25,Denmark,109
+11630,JT,Johnny Theodosiou,23,South Africa,36
+5440,flashie,Viktor Tamás Bea,26,Hungary,507
+7214,strux1,Hendrik Goetzendorff,31,Germany,2586
+9325,arvid,Tony Niemelä,25,Finland,442
+10367,ecfN,Lukas Kauer,26,Germany,2586
+8599,Karsa,QiFang Su,30,China,2586
+7463,Inzta,Peter Kragelund,29,Denmark,2586
+16412,rafftu,Kostadin Turbinov,22,Bulgaria,473
+7943,uNdo,Alexander Kiziukevich,27,Belarus,471
+9845,vSa,Andy Xu,28,Canada,2586
+10762,Rock1nG,Ivan Stratiev,25,Bulgaria,508
+7147,Fifflaren,Robin Johansson,34,Sweden,2586
+3517,kzy,Oliver Heck,32,Germany,509
+13976,boX,Anton Burko,27,Belarus,159
+11278,TOAO,Mateusz Zawistowski,25,Poland,2586
+8752,SileNt,Samuel Portillo,27,United States,2586
+1950,tonyblack,Anton Kolesnikov,29,Russia,510
+15180,Twixie,Samuli Herrala,20,Finland,300
+8410,arch,Vladyslav Svistov,26,Ukraine,2586
+14203,Shakezullah,Alan Hardeman,24,United States,114
+8549,EXUS,Konrad Jeńczeń,24,Poland,415
+2260,RIZZZ,Rui Lima,29,Portugal,511
+1889,LOMME,Frederik Nielsen,28,Denmark,2586
+15071,interz,Timofey Yakushin,21,Russia,104
+7166,Ex6TenZ,Kévin Droolans,32,Belgium,2586
+7405,ub1que,Alexey Polivanov,30,Russia,2586
+12588,BRACE,Toby Barnes,22,Australia,192
+11492,Noisia,Alec Gulabovski,26,Australia,2586
+9857,ngiN,Engin Kor,29,Turkey,2586
+2292,forget,Lei Li,32,China,2586
+15697,Sidney,Patryk Korab,24,Poland,415
+8320,repo,Karol Cybulski,25,Poland,2586
+11940,neaLaN,Sanzhar Iskhakov,21,Kazakhstan,97
+9104,DANZ,Daniel Whitfield,28,Australia,2586
+10506,tutehen,Matias Canale,29,Argentina,417
+2476,emi,Luka Vuković,28,Serbia,2586
+16410,Duplicate,Viktor Mitev,21,Bulgaria,494
+3631,Polly,Pål Kammen,31,Norway,109
+8790,hutji,Pavel Lashkov,26,Russia,2586
+16486,ztr,Erik Gustafsson,18,Sweden,283
+1064,crisby,Christian Schmitt,30,Germany,506
+8231,matty,Mateusz Kołodziejczyk,26,Poland,2586
+4829,mynio,Wiktor Kruk,26,Poland,2586
+10938,kiR,Andreas Kirstein,22,Denmark,154
+14290,SkulL,Jordan Newland,24,Australia,512
+3329,quix,Max Lindkvist,29,Sweden,307
+5351,aVN,Filip Belojica,25,Serbia,449
+9081,S0tF1k,Dmitry Forostyanko,27,Russia,264
+9217,TACO,Epitacio de Melo,27,Brazil,74
+1200,hitMouse,Kirill Tsarev,32,Belarus,513
+1331,Xp3,David Garrido,35,France,2586
+1278,pNshr,Nikolay Paunin,30,Bulgaria,2586
+356,arki,Omar Chakkor,32,Spain,293
+7156,MSL,Mathias Lauridsen,27,Denmark,437
+11716,SANJI,Sanjar Kuliev,24,Uzbekistan,57
+19967,sorrow,Zhandarbek Mamyrbek,26,Kazakhstan,56
+5385,Luz,Maciek Bugaj,28,Poland,415
+484,Zeus,Danylo Teslenko,34,Ukraine,2586
+8837,akez,Kristian Kornbakk,30,Norway,251
+169,nak,Renato Nakano,35,Brazil,2586
+6453,arya,Arya Hekmat,29,United States,2586
+1206,BTN,Cătălin-Ionuț Stănescu,33,Romania,58
+9736,ncl,Bold Batsuh,27,Mongolia,188
+9820,pietola,Lauri Hietala,24,Finland,2586
+12016,svyat,Svyatoslav Dovbakh,27,Russia,2586
+15778,SENER1,Sener Mahmuti,25,Kosovo,231
+4218,Dav,David Miljanić,30,Serbia,187
+429,karrigan,Finn Andersen,32,Denmark,35
+7537,xartE,Mikko Välimaa,30,Finland,105
+3252,LEGIJA,Nikola Ninić,31,Germany,2586
+1154,roman,Roman Redihin,33,Belarus,2586
+1866,Shara,Oleksandr Hordieyev,29,Ukraine,472
+7796,wayLander,Jan Rahkonen,28,Russia,2586
+10114,BONA,Verneri Junkala,22,Finland,87
+7821,sAw,Eetu Saha,30,Finland,88
+14202,coolio,András Fercsák,22,Hungary,207
+7218,kRYSTAL,Kevin Amend,29,Germany,468
+8983,MiGHTYMAX,Max Heath,25,United Kingdom,180
+9348,crush,Igor Shevchenko,26,Ukraine,514
+8294,balblna,Gregory Oleinick,26,Russia,2586
+13250,ben1337,Ben Smith,24,United States,443
+9295,sycrone,Dennis Nielsen,26,Denmark,26
+5327,nkl,Nikolay Krastev,28,Bulgaria,2586
+499,hooch,Dmitry Bogdanov,35,Russia,62
+11110,Golden,Maikil Selim,28,Sweden,349
+9798,lunAtic,Dawid Cieślak,29,Poland,245
+6451,FNS,Pujan Mehta,30,Canada,2586
+7797,spiker,Alexander Ivanov,28,Russia,2586
+16563,Psycho,Alexandr Zlobin,25,Ukraine,25
+18219,Adam9130,Adam Ahmad,24,United Kingdom,426
+15120,JiNKZ,Gaëtan Jamin,27,France,2586
+9017,MAiNLiNE,Michael Jaber,26,United States,2586
+41,pronax,Markus Wallsten,31,Sweden,2586
+9882,Polen,Adam Polen,26,United States,2586
+16731,IceBerg,Oliver Berg,21,Denmark,154
+8047,Lambert,Lambert Prigent,30,France,200
+8504,LeX,Alexander Deily,32,United States,2586
+8212,ScrunK,Robin Röpke,27,Germany,217
+10993,torben,Nicolai Amorim,27,Denmark,2586
+1916,seang@res,Sean Gares,34,United States,515
+8521,daps,Damian Steele,29,Canada,99
+1328,flowsicK,Kyle Mendez,31,United States,2586
+921,BERRY,Danny Krüger,32,Denmark,151
+13718,birdfromsky,Thomas Due-Frederiksen,28,Denmark,2586
+8600,advent,Zhuo Liang,30,China,433
+15726,nawrot,Piotr Nawrocki,23,Poland,2586
+10096,HooXi,Rasmus Nielsen,27,Denmark,182
+9350,def,Dima Lemeshchuk,27,Ukraine,2586
+12572,djL,Daniel Narancic,28,Sweden,118
+7378,Devilwalk,Jonatan Lundberg,31,Sweden,349
+1964,Twista,Slaava Räsänen,35,Finland,442
+136,gob b,Fatih Dayik,35,Germany,14
+8708,Slemmy,Alec White,31,United States,2586
+13779,PASHANOJ,Pavel Legostaev,28,Russia,483
+472,B1ad3,Andrey Gorodenskiy,35,Ukraine,3
+8422,netrick,Jonas Wenzelsen,27,Denmark,325
+7415,HUNDEN,Nicolai Petersen,31,Denmark,2586
+13156,RuFire,Aleksei Burakov,27,Russia,516
+6455,OCEAN,Kyle O'Brien,35,Canada,2586
