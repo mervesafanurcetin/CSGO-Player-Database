@@ -39,17 +39,6 @@ The original dataset was modified and reorganized to fit the database structure 
 
 All modifications and data organization were performed as part of this project.
 
-## SQL Features
-
-### Stored Procedure: Opening_Kill_Death_Ratio
-
-Calculates the opening kill-to-death ratio for a specific player.
-
-- Takes a player ID as an input parameter.
-- Retrieves opening kills and opening deaths.
-- Calculates the ratio.
-- Returns `NULL` when opening deaths are zero.
-
 ## Project Files
 
 ```text
@@ -78,13 +67,6 @@ CSGO-Player-Database/
 The repository contains the MySQL Workbench database model, CSV data files, and SQL scripts.
 
 The included SQL script covers operations related to the `playerinfos` table. It is not a complete database backup, and a complete database initialization script is not currently included.
-
-## Future Improvements
-
-- Create a complete SQL database initialization script.
-- Automate CSV data imports.
-- Expand stored procedures and views.
-- Add more queries for analyzing player performance.
 
 ---
 
