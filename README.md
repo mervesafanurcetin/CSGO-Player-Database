@@ -27,6 +27,18 @@ The database contains information about players, teams, equipment, kills, deaths
 | `teams` | Team information |
 | `previousteams` | Previous team information |
 
+## Dataset Source
+
+The original dataset was obtained from Kaggle:
+
+- **Dataset:** [CSGO: Professional Players Dataset](https://www.kaggle.com/datasets/naumanaarif/csgo-pro-players-dataset)
+- **Author:** Nauman Aarif
+- **Platform:** Kaggle
+
+The original dataset was modified and reorganized to fit the database structure and requirements of this project. The data was separated into multiple CSV files to represent different entities and statistical categories.
+
+All modifications and data organization were performed as part of this project.
+
 ## SQL Features
 
 ### Stored Procedure: Opening_Kill_Death_Ratio
